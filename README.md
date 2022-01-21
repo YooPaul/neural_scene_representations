@@ -4,7 +4,8 @@
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YooPaul/neural_scene_representations/blob/master/.ipynb)<br>
 -->
 
-
+Will be uploading implementations and write-ups on neural scene representations and their applications to downstream
+visual tasks.   
 
 
 ## References
