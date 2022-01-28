@@ -12,6 +12,19 @@ Implementation and Colab Notebook will soon be uploaded.
 <!-- TABLE BODY -->
 </tbody></table>
 <img src="imgs/srn_single_scene.gif" width="250"/>
+
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom">Normal Map</th>
+<th valign="bottom">Image</th>
+<!-- TABLE BODY -->
+<tr>
+<td><img src="imgs/normal_map.png" width="250"/></td>
+<td><img src="imgs/gt.png" width="250"/></td>
+</tr>
+</tbody></table>
+
 <!--
 ![training gif](https://github.com/YooPaul/neural_scene_representations/blob/main/SRNs/imgs/srn_single_scene.gif)
 -->
