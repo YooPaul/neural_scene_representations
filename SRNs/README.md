@@ -10,10 +10,8 @@ Implementation and Colab Notebook will soon be uploaded.
 <th valign="bottom">Model Output</th>
 <th valign="bottom">Ground Truth View</th>
 <!-- TABLE BODY -->
-<tr align="center">
-<img src="imgs/srn_single_scene.gif" width="250"/>
-</tr>
 </tbody></table>
+<img src="imgs/srn_single_scene.gif" width="250"/>
 <!--
 ![training gif](https://github.com/YooPaul/neural_scene_representations/blob/main/SRNs/imgs/srn_single_scene.gif)
 -->
