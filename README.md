@@ -7,6 +7,7 @@ Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.
 Will be uploading implementations and write-ups on neural scene representations and their applications to downstream
 visual tasks.   
 
+* [SRNs](https://github.com/YooPaul/neural_scene_representations/tree/main/SRNs)
 
 ## References
 

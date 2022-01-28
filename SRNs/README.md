@@ -10,8 +10,8 @@ Implementation and Colab Notebook will soon be uploaded.
 <th valign="bottom">Model Output</th>
 <th valign="bottom">Ground Truth View</th>
 <!-- TABLE BODY -->
-<tr>
-<td align="center"><img src="imgs/srn_single_scene.gif" width="250"/></td>
+<tr align="center">
+<img src="imgs/srn_single_scene.gif" width="250"/>
 </tr>
 </tbody></table>
 <!--
