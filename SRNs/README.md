@@ -28,7 +28,7 @@ Implementation and Colab Notebook will soon be uploaded.
 
 ### 360 View Rendering
 Scene Representation Networks are capable of rendering novel views unseen during training.<br>
-<img src="imgs/scene_360_long.gif" width="250"/>
+<img src="imgs/scene_360_long.gif" width="180"/>
 <br><br>
 Since Scene Representation Networks take as input 3D Cartesian coordinates and output latent representations at those
 spatial points, the networks can render views at arbitrary resolutions just by  sampling at a finer grain. 
