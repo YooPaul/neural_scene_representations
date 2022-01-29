@@ -27,8 +27,8 @@ Implementation and Colab Notebook will soon be uploaded.
 </tbody></table>
 
 ### 360 View Rendering
-Scene Representation Networks are capable of rendering novel views unseen during training.
-<img src="imgs/srn_single_scene.gif" width="250"/>
+Scene Representation Networks are capable of rendering novel views unseen during training.<br>
+<img src="imgs/scene_360_long.gif" width="250"/>
 <br><br>
 Since Scene Representation Networks take as input 3D Cartesian coordinates and output latent representations at those
 spatial points, the networks can render views at arbitrary resolutions just by  sampling at a finer grain. 
@@ -42,9 +42,9 @@ Although the model itself was trained using 64 by 64 images, we can render highe
 <th valign="bottom">256 x 256</th>
 <!-- TABLE BODY -->
 <tr>
-<td><img src="imgs/hr64.png" width="256"/></td>
-<td><img src="imgs/hr128.png" width="256"/></td>
-<td><img src="imgs/hr256.png" width="256"/></td>
+<td><img src="imgs/hr64.png" width="180"/></td>
+<td><img src="imgs/hr128.png" width="180"/></td>
+<td><img src="imgs/hr256.png" width="180"/></td>
 </tr>
 </tbody></table>
 
