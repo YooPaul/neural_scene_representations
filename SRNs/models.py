@@ -54,10 +54,6 @@ class SRN(nn.Module):
             x = layer(x)
         return x
 
-    def init(self):
-        for layer in self.layers:
-            layer.init()
-
 class HyperLayer(nn.Module):
     # Generate parameters for one layer of SRN
     def __init__(self, in_dim, out_dim, num_layers=3):
